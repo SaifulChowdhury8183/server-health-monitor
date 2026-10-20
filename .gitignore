@@ -1,0 +1,10 @@
+# Temporary test files
+testfile
+*.tmp
+*.bak
+
+# Editor backup files
+*~
+
+# Generated logs should remain on the server, not in Git
+*.log
